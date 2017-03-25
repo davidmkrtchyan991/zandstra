@@ -1,5 +1,5 @@
 <?php
-include "ShopProduct.php";
+include "Classes/ShopProduct.php";
 
 $book = new ShopProduct(1,2,3,4);
 $book->name = "Mihail";
